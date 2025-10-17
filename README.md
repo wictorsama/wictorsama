@@ -118,7 +118,7 @@ Domínio de **.NET, Node.js/NestJS, Angular, React, Next.js, Azure e DevOps**, a
 
 ## 📫 Contato
 
-📧 **wictor.vargas@outlook.com**  
+📧 **wictorsama@gmail.com**  
 💼 [linkedin.com/in/wictor-vargas](https://www.linkedin.com/in/wictor-vargas/)  
 🌎 Portfólio (em desenvolvimento)
 
@@ -172,7 +172,7 @@ Strong expertise in **AI, DevOps automation, architecture design, and leadership
 
 ## 📫 Contact
 
-📧 **wictor.vargas@outlook.com**  
+📧 **wictorsama@gmail.com**  
 💼 [linkedin.com/in/wictor-vargas](https://www.linkedin.com/in/wictor-vargas/)  
 🌎 Portfolio (under development)
 
