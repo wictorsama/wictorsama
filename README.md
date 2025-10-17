@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./Layout_Top.png" alt="Wictor Vargas — Software Architect · Cloud & AI Expert" width="100%">
+</p>
+
 <div align="center">
 
 # 👋 Wictor Hugo Esteves Vargas  
