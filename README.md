@@ -6,17 +6,18 @@
 
 # 👋 Wictor Hugo Esteves Vargas  
 
-### Engenheiro de Computação • Arquiteto de Software • Especialista em IA, Cloud e DevOps  
+### Engenheiro de Computação • Arquiteto de Software • Especialista em IA, Cloud, DevOps e Blockchain  
 
 > _“A arquitetura certa torna o complexo simples — e o impossível, escalável.”_  
 
 ![Profile Views](https://komarev.com/ghpvc/?username=wictorsama&style=flat-square&color=blueviolet)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wictor-vargas/)
-[![Email](https://img.shields.io/badge/Email-wictor.vargas%40outlook.com-blue?style=flat-square&logo=gmail&logoColor=white)](mailto:wictor.vargas@outlook.com)
+[![Email](https://img.shields.io/badge/Email-wictorsama%40gmail.com-blue?style=flat-square&logo=gmail&logoColor=white)](mailto:wictorsama@gmail.com)
 
 ---
 
-[🇧🇷 **Português (BR)**](#português-br) | [🇺🇸 **English**](#english-version)
+📘 Este README está disponível em **Português** e **Inglês**.  
+👉 [🇺🇸 Read this in English](./README.en.md)
 
 ---
 
@@ -46,20 +47,17 @@
 ![Dialogflow CX](https://img.shields.io/badge/Dialogflow%20CX-FB8C00?style=flat&logo=google&logoColor=white)
 ![Vertex AI](https://img.shields.io/badge/Vertex%20AI-669DF6?style=flat&logo=googlecloud&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-121212?style=flat&logo=chainlink&logoColor=white)
+![Blockchain](https://img.shields.io/badge/Blockchain-121212?style=flat&logo=bitcoin&logoColor=orange)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
 
 ---
 
 </div>
 
----
+# 🇧🇷 Sobre
 
-# 🇧🇷 Português (BR)
-
-## 👨‍💻 Sobre
-
-Profissional com mais de **12 anos de experiência** em **desenvolvimento full-stack, arquitetura de software e soluções em nuvem**, atuando em projetos de alta complexidade para empresas públicas e privadas.  
-Domínio de **.NET, Node.js/NestJS, Angular, React, Next.js, Azure e DevOps**, além de sólida formação em **Inteligência Artificial, Blockchain, Cloud e Cibersegurança**.
+Profissional com mais de **12 anos de experiência** em **desenvolvimento full-stack, arquitetura de software, DevOps e soluções em nuvem**, com sólida **experiência em Inteligência Artificial e Blockchain**.  
+Atuou em projetos corporativos complexos para grandes empresas e órgãos públicos, com domínio de **.NET, Node.js/NestJS, Angular, React, Next.js, Azure e pipelines DevOps**.
 
 ---
 
@@ -69,6 +67,7 @@ Domínio de **.NET, Node.js/NestJS, Angular, React, Next.js, Azure e DevOps**, a
 - **Desenvolvimento Full-Stack (C#, TypeScript, Angular, React, Next.js, NestJS)**  
 - **DevOps e Automação (CI/CD, Docker, Kubernetes, Terraform, Azure DevOps, GitHub Actions)**  
 - **Inteligência Artificial (Azure OpenAI, Vertex AI, Dialogflow CX, LangChain, RAG)**  
+- **Blockchain e Smart Contracts (Segurança, Criptografia, Web3, Ethereum)**  
 - **Segurança e Compliance (IAM, OWASP, Zero Trust, Cybercrimes)**  
 - **Gestão e Liderança (XP, PMBOK, Scrum, Kanban)**  
 
@@ -76,8 +75,8 @@ Domínio de **.NET, Node.js/NestJS, Angular, React, Next.js, Azure e DevOps**, a
 
 ## ⚙️ Engenharia e Arquitetura de Software
 
-`SOLID` · `Clean Code` · `Design Patterns` · `DDD` · `TDD` · `BDD` · `Event-Driven Architecture` ·  
-`Clean Architecture` · `Onion Architecture` · `CQRS` · `Domain Modeling`
+`SOLID` · `Clean Code` · `Design Patterns` · `DDD` · `TDD` · `BDD` ·  
+`Clean Architecture` · `Onion Architecture` · `CQRS` · `Event-Driven Architecture`
 
 ---
 
@@ -104,15 +103,6 @@ Domínio de **.NET, Node.js/NestJS, Angular, React, Next.js, Azure e DevOps**, a
 
 ---
 
-## 🎓 Formação Acadêmica
-
-- **Engenharia da Computação** — UNOPAR Pitágoras Catuaí (2014–2019)  
-- **Pós-Graduações:** Arquitetura de Software, Cloud Computing, DevOps, IA, Blockchain, Liderança  
-- **MBAs:** Gestão de Projetos · Data Science  
-- **Especialização:** Cybersecurity e Cybercrimes  
-
----
-
 ## 📈 Estatísticas GitHub
 
 ![Wictor's GitHub Stats](https://github-readme-stats.vercel.app/api?username=wictorsama&show_icons=true&theme=tokyonight&hide_border=true)
@@ -128,62 +118,8 @@ Domínio de **.NET, Node.js/NestJS, Angular, React, Next.js, Azure e DevOps**, a
 
 ---
 
-# 🇺🇸 English Version
-
-## 👨‍💻 About
-
-Software Architect and Cloud Engineer with **12+ years of experience** in **full-stack development and enterprise-grade cloud solutions**, focusing on **.NET, Node.js/NestJS, Angular, React, Next.js, and Azure**.  
-Strong expertise in **AI, DevOps automation, architecture design, and leadership** across Azure, AWS, and GCP.
-
----
-
-## 🧠 Core Areas
-
-- **Software Architecture & Cloud Engineering**  
-- **Full-Stack Development (C#, TypeScript, Angular, React, Next.js, NestJS)**  
-- **DevOps Automation (CI/CD, Docker, Kubernetes, Terraform, Azure DevOps, GitHub Actions)**  
-- **Artificial Intelligence (Azure OpenAI, Vertex AI, Dialogflow CX, LangChain, RAG)**  
-- **Security & Governance (IAM, Zero Trust, OWASP, Cybersecurity)**  
-- **Leadership & Management (XP, PMBOK, Scrum, Kanban)**  
-
----
-
-## ⚙️ Software Engineering
-
-`SOLID` · `Clean Code` · `Design Patterns` · `DDD` · `TDD` · `BDD` · `Event-Driven Architecture` ·  
-`Clean Architecture` · `Onion Architecture` · `CQRS` · `Domain Modeling`
-
----
-
-## ☁️ Cloud & DevOps (Advanced)
-
-### 🔹 Azure
-`AI Search` · `Azure OpenAI` · `Functions` · `Cosmos DB` · `Key Vault` · `Blob Storage` · `AKS` · `Terraform` · `Azure DevOps`
-
-### 🔹 AWS
-`ECS` · `EKS` · `Lambda` · `CloudFormation` · `IAM` · `CloudWatch` · `S3` · `API Gateway` · `Route 53`
-
-### 🔹 GCP
-`Vertex AI` · `Dialogflow CX` · `BigQuery` · `Cloud Run` · `Cloud Functions` · `Cloud Build` · `IAM` · `Operations Suite`
-
----
-
-## 🧭 Leadership & Management
-
-`Scrum` · `Kanban` · `XP` · `PMBOK` · `High-Performance Leadership` · `Project Management (PMI)`
-
----
-
-## 📫 Contact
-
-📧 **wictorsama@gmail.com**  
-💼 [linkedin.com/in/wictor-vargas](https://www.linkedin.com/in/wictor-vargas/)  
-🌎 Portfolio (under development)
-
----
-
 <div align="center">
   
-⭐️ _“The right architecture turns complexity into clarity — and the impossible into scalable reality.”_ ⭐️
+⭐️ _“A arquitetura certa torna o complexo simples — e o impossível, escalável.”_ ⭐️
 
 </div>
